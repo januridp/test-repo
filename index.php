@@ -2,7 +2,7 @@
 <!DOCTYPE html>
     <html>
       <head>
-        <title>Heroku</title>
+        <title>Heroku is My Hero</title>
         <style type='text/css'>
       body {
         background-color: white;
