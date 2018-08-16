@@ -71,7 +71,7 @@
           <div class='section friendly'>
             <h1><strong>Heroku</strong></h1>
             <div class='article'>
-              <p></p>
+              <p>Berhasil Auto-merged</p>
             </div>
           </div>
         </div>
