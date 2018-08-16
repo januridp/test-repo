@@ -23,9 +23,6 @@ echo "Repo url is $URL"
 PUSH_URL="https://$GIT_USER:$GIT_PASS@${URL:6}"
 
 if [ "$CURRENT_BRANCH" = "$FROM_BRANCH" ] ; then
-    # Checkout the dev branch
-    #git checkout $FROM_BRANCH && \
-    #echo "Checking out $TO_BRANCH..." && \
 
     # Checkout the latest stable
     git fetch origin $TO_BRANCH:$TO_BRANCH && \
