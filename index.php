@@ -71,7 +71,7 @@
           <div class='section friendly'>
             <h1><strong>Heroku</strong></h1>
             <div class='article'>
-              <p>Refer to the <a href="//devcenter.heroku.com/">documentation</a> if you need help deploying.</p>
+              <p></p>
             </div>
           </div>
         </div>
