@@ -8,4 +8,5 @@ if ($age < 20){
 }else{
 	echo 'Anda muda atau tua? haha';
 }
+
 ?>
