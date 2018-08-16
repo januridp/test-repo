@@ -3,4 +3,3 @@ php:
   - '7.1'
 script:
   - composer install
-  - ./vendor/bin/phpunit --bootstrap vendor/autoload.php tests/StackTest.php
