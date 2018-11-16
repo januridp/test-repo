@@ -1,5 +1,5 @@
 # test-repo
-repo for testing purpose only
+repo for testing purpose only!
 
 # JanuriDP
 
